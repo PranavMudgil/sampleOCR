@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="abbyy-rtr-sdk-1.0-">
+    <CLASSES>
+      <root url="jar://C:/Android/.android/build-cache/61605580bb5efca84b15000c828a16d44b4e6590/output/jars/classes.jar!/" />
+      <root url="file://C:/Android/.android/build-cache/61605580bb5efca84b15000c828a16d44b4e6590/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\abbyy\\sample-textcapture\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a91183c8ce10597fa7772be8ec231e7c856d00f2\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]
